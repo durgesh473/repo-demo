@@ -1,2 +1,3 @@
 This is first file in slave branch.
 This is the second line of the slave branch.
+This is the third line of the slave branch.
